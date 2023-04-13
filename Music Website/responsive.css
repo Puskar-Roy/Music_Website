@@ -1,0 +1,237 @@
+@media(max-width:1025px) {
+    .macimg img {
+        height: 49rem;
+    }
+
+    .boxvdo {
+        height: 70rem;
+    }
+
+}
+
+
+
+
+
+@media(max-width:770px) {
+    .iphoneimg img {
+        height: 47rem;
+    }
+
+    p.xd {
+        margin-left: 15px;
+    }
+
+    .music1 {
+        margin-left: 8px;
+        gap: 8px;
+    }
+
+    .hero1 {
+        padding: 2rem;
+    }
+
+    .macimg {
+        margin-top: 7rem;
+        margin-left: 9rem;
+    }
+
+    .macimg img {
+        height: 35rem;
+    }
+
+    .boxvdo h1,
+    .boxvdo h4 {
+        margin-left: 5rem;
+    }
+    .giftcard1 {
+        display: flex;
+        flex-direction:column;
+        gap: 30px;
+        padding: 40px;
+    }
+
+
+}
+
+@media(min-width:460px) {
+    #bar {
+        display: none;
+    }
+
+    /* nnnnnnnn */
+
+}
+
+@media(max-width:460px) {
+    .navbar ul a {
+        display: none;
+    }
+
+    .iphoneimg img {
+        height: 25rem;
+    }
+
+    .macimg img {
+        height: 14rem;
+    }
+
+    .mac {
+        margin-top: 20rem;
+        padding: 20px;
+    }
+
+    .macimg {
+        margin-left: 7.4rem;
+
+    }
+
+    .content .exe h1 {
+        font-size: 63px;
+    }
+
+    .content .exe h3 {
+        font-size: 30px;
+    }
+
+    .content .exe p {
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 23px;
+    }
+
+    .container {
+        background: url(images/heroimg.png);
+        height: 67vh;
+    }
+
+    .content .exe h3 {
+        font-size: 30px;
+        padding: 10px;
+    }
+    .boxvdo h1, .boxvdo h4 {
+        margin-left: 3rem;
+    }
+    .giftimg img {
+        height: 17rem;
+    }
+    
+}
+
+
+
+
+    @media(max-width:420px) {
+        .container {
+            background: url(images/heroimg.png);
+            height: 95vh;
+        }
+        .macimg {
+            margin-left: 6.5rem;
+        }
+
+}
+
+@media(max-width:400px) {
+    .music1 {
+        display: flex;
+        gap: 8px;
+    }
+
+    .iphoneimg img {
+        height: 25rem;
+        margin-right: 15px;
+        margin-top: -3rem;
+    }
+
+    h4 {
+        margin-left: 16px;
+    }
+
+    .x1 {
+        margin-left: 16px;
+    }
+
+    .macimg {
+        margin-left: 1.5rem;
+
+    }
+
+    .boxvdo h1,
+    .boxvdo h4 {
+        margin-left: 2.5rem;
+    }
+    .boxvdo h1, .boxvdo h4 {
+        margin-left: 3rem;
+    }
+    .container {
+        height: 93vh;
+    }
+    .giftimg img {
+        height: 14rem;
+    }
+    .giftcard1 {
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+        padding: 40px;
+        flex-wrap: wrap;
+    }
+    .giftimg img {
+        height: 20rem;
+    }
+    
+    .macimg img {
+        height: 19rem;
+    }
+    .end {
+        background-color: var(--purple300);
+        color: white;
+        text-align: center;
+        padding: 10px;
+        font-size: 5px;
+        padding-top: -7px;
+        align-items: center;
+        min-height: 4rem;
+        margin: auto 0;
+        font-weight: 500;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+
+
+}
+
+@media(max-width:360px) {
+    .navbar ul a {
+        display: none;
+    }
+
+    .iphoneimg img {
+        height: 21rem;
+    }
+
+    .music1 {
+        display: flex;
+    }
+    
+
+
+}
+
+@media(max-width:320px) {
+    .iphoneimg img {
+        height: 22rem;
+    }
+    .macimg img {
+        height: 16rem;
+    }
+    .giftimg img {
+        height: 16rem;
+    }
+    .iphoneimg img {
+        height: 20rem;
+    }
+    .container {
+        height: 82vh;
+    }
+}
